@@ -10,12 +10,12 @@
 
     "repository": {
       "type": "git",
-      "url": https://young-garden-96619.herokuapp.com/
+      "url": https://jeancha.github.io/Friend-Finder/
     },
 
     "author": "JeanCha",
     "license": "ISC",
-    "url": https://young-garden-96619.herokuapp.com/
+    "url": https://jeancha.github.io/Friend-Finder/
 ,    }
 
     "dependencies": {
