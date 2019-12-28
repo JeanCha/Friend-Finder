@@ -10,12 +10,12 @@
 
     "repository": {
       "type": "git",
-      "url": 
+      "url": https://young-garden-96619.herokuapp.com/
     },
 
     "author": "JeanCha",
     "license": "ISC",
-    "url": 
+    "url": https://young-garden-96619.herokuapp.com/
 ,    }
 
     "dependencies": {
@@ -24,4 +24,3 @@
     }
   }
 
-  
